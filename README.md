@@ -1,2 +1,42 @@
-# workshops
-Kørekort workshops - tilmeldingsdokumenter
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tilgængelige Workshops</title>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      }
+
+      nav {
+        display: flex;
+        gap: 32px;
+        font-size: 20px;
+      }
+
+      nav a {
+        color: inherit;
+        text-decoration: none;
+        padding: 8px 10px;
+      }
+
+      nav a:hover,
+      nav a:focus-visible {
+        text-decoration: underline;
+        outline: none;
+      }
+    </style>
+  </head>
+  <body>
+    <nav aria-label="Main menu">
+      <a href="https://docs.google.com/document/d/1sdtt19fa0Zz-1UW3GTVhtEA9Bo8tWyR-sv0-9RWoMpQ/edit?usp=sharing">lasercutter</a>
+      <a href="https://docs.google.com/document/d/1EbxO39JnaYQpiUxuJUElrfSXoZt9CQE_xbnjw6YWUNo/edit?usp=sharing">resinprinter</a>
+      <a href="YOUR_LINK_HERE">andet</a>
+    </nav>
+  </body>
+</html>
