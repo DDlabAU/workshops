@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -33,7 +32,7 @@
     </style>
   </head>
   <body>
-    <nav aria-label="Main menu">
+    <nav aria-label="Tilgængelige">
       <a href="https://docs.google.com/document/d/1sdtt19fa0Zz-1UW3GTVhtEA9Bo8tWyR-sv0-9RWoMpQ/edit?usp=sharing">lasercutter</a>
       <a href="https://docs.google.com/document/d/1EbxO39JnaYQpiUxuJUElrfSXoZt9CQE_xbnjw6YWUNo/edit?usp=sharing">resinprinter</a>
       <a href="YOUR_LINK_HERE">andet</a>
